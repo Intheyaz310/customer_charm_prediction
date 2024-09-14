@@ -1,0 +1,1 @@
+This project predicts whether a customer will churn (stop using a service) using machine learning techniques. Leveraging the power of the Random Forest Classifier, we analyze various customer data points to classify churn behavior. The goal is to help businesses retain customers by identifying potential churners early.
